@@ -1,6 +1,5 @@
 {
-  "name": "with-typescript-eslint-jest",
-  "author": "@erikdstock",
+  "name": "next-i18n-chakra-template",
   "license": "MIT",
   "version": "1.0.0",
   "scripts": {
@@ -26,7 +25,13 @@
     ]
   },
   "dependencies": {
-    "next": "latest",
+    "@chakra-ui/react": "^1.0.1",
+    "@emotion/react": "^11.1.1",
+    "@emotion/styled": "^11.0.0",
+    "framer-motion": "^2.9.4",
+    "i18next": "^19.8.4",
+    "next": "^10.0.3",
+    "next-i18next": "^7.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
@@ -47,6 +52,6 @@
     "jest-watch-typeahead": "^0.5.0",
     "lint-staged": "^10.0.10",
     "prettier": "^2.0.2",
-    "typescript": "^3.8.3"
+    "typescript": "^4.1.2"
   }
 }

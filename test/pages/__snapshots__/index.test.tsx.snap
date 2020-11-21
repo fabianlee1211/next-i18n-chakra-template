@@ -3,119 +3,63 @@
 exports[`Home page matches snapshot 1`] = `
 <DocumentFragment>
   <div
-    class="jsx-2250570153 container"
+    class="css-3z75l1"
   >
-    <main
-      class="jsx-2250570153"
+    <h2
+      class="chakra-heading css-zey6tx"
     >
-      <h1
-        class="jsx-2250570153 title"
-      >
-        Welcome to 
-        <a
-          class="jsx-2250570153"
-          href="https://nextjs.org"
-        >
-          Next.js!
-        </a>
-      </h1>
-      <p
-        class="jsx-2250570153 description"
-      >
-        Get started by editing 
-        <code
-          class="jsx-2250570153"
-        >
-          pages/index.tsx
-        </code>
-      </p>
-      <button
-        class="jsx-2250570153"
-      >
-        Test Button
-      </button>
-      <div
-        class="jsx-2250570153 grid"
-      >
-        <a
-          class="jsx-2250570153 card"
-          href="https://nextjs.org/docs"
-        >
-          <h3
-            class="jsx-2250570153"
-          >
-            Documentation →
-          </h3>
-          <p
-            class="jsx-2250570153"
-          >
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
-        <a
-          class="jsx-2250570153 card"
-          href="https://nextjs.org/learn"
-        >
-          <h3
-            class="jsx-2250570153"
-          >
-            Learn →
-          </h3>
-          <p
-            class="jsx-2250570153"
-          >
-            Learn about Next.js in an interactive course with quizzes!
-          </p>
-        </a>
-        <a
-          class="jsx-2250570153 card"
-          href="https://github.com/vercel/next.js/tree/master/examples"
-        >
-          <h3
-            class="jsx-2250570153"
-          >
-            Examples →
-          </h3>
-          <p
-            class="jsx-2250570153"
-          >
-            Discover and deploy boilerplate example Next.js projects.
-          </p>
-        </a>
-        <a
-          class="jsx-2250570153 card"
-          href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-        >
-          <h3
-            class="jsx-2250570153"
-          >
-            Deploy →
-          </h3>
-          <p
-            class="jsx-2250570153"
-          >
-            Instantly deploy your Next.js site to a public URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
-    <footer
-      class="jsx-2250570153"
+      Next.js i18n with Chakra UI Template
+    </h2>
+    <h2
+      class="chakra-heading css-jk7tnf"
     >
-      <a
-        class="jsx-2250570153"
-        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-        rel="noopener noreferrer"
-        target="_blank"
+      Translated Text
+    </h2>
+    <p
+      class="chakra-text css-17t5ffy"
+    >
+      Example repository of
+    </p>
+    <div
+      class="chakra-stack css-18dncob"
+    >
+      <code
+        class="chakra-code css-1dvx7i9"
       >
-        Powered by 
-        <img
-          alt="Vercel Logo"
-          class="jsx-2250570153 logo"
-          src="/vercel.svg"
-        />
-      </a>
-    </footer>
+        Next.js
+      </code>
+      <code
+        class="chakra-code css-1dvx7i9"
+      >
+        chakra-ui
+      </code>
+      <code
+        class="chakra-code css-1dvx7i9"
+      >
+        typescript
+      </code>
+      <code
+        class="chakra-code css-1dvx7i9"
+      >
+        jest
+      </code>
+      <code
+        class="chakra-code css-1dvx7i9"
+      >
+        i18n
+      </code>
+    </div>
+    <button
+      class="chakra-button css-16pn0c5"
+      type="button"
+    >
+      Change Language
+    </button>
+    <p
+      class="chakra-text css-0"
+    >
+      Next ❤️ Chakra
+    </p>
   </div>
 </DocumentFragment>
 `;
